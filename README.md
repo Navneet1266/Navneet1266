@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Navneet, I'm an aspiring MERN Full Stack Web Developer<br>
+"Hi there! 👋 I'm Navneet, an aspiring MERN Full Stack Web Developer passionate about building scalable and user-friendly  web applications 🌐."<br>
 
 
 ## 🌐 Socials:
